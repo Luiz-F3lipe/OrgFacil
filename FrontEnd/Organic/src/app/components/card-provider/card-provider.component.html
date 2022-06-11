@@ -1,0 +1,37 @@
+<div class="card-main">
+  <div class="card" *ngFor="let providers of provider">
+    <mat-card class="example-card">
+      <mat-card-header >
+        <div mat-card-avatar class="example-header-image" style="background-image: url('{{ providers.PersonImage }}');">
+        </div>
+        <mat-card-title>
+          {{ providers.Name }}
+        </mat-card-title>
+        <mat-card-subtitle>
+          {{ providers.Description }}
+        </mat-card-subtitle>
+      </mat-card-header>
+      <img class="img" mat-card-image src="{{ providers.Image }}" alt="Photo of organic fruits">
+      <mat-card-content>
+        <p>
+          {{ providers.Adress }}
+        </p>
+      </mat-card-content>
+      <mat-card-actions>
+        <div class="buttons-content">
+          <div class="example-button-row">
+            <button class="icon" color="primary" mat-icon-button aria-label="Example icon-button with a heart icon">
+              <mat-icon class="icon">person</mat-icon>
+            </button>
+          </div>
+          <div class="example-button-row">
+            <button class="icon" color="primary" mat-icon-button aria-label="Example icon-button with a heart icon">
+              <mat-icon>shopping_cart</mat-icon>
+            </button>
+        </div>
+        </div>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>
+

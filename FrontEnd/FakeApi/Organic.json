@@ -1,0 +1,36 @@
+{
+  "Providers": [
+    {
+      "id": 1,
+      "PersonImage": "https://pps.whatsapp.net/v/t61.24694-24/162491545_131302445892772_6803924559935474791_n.jpg?ccb=11-4&oh=01_AVwxxBedBe14cOxjkoJywzmLu_q-4k1kNJOJcpgOZ3NytA&oe=62B39F66",
+      "Name": "Luiz Felipe",
+      "Description": "Organic",
+      "Image": "https://s2.glbimg.com/osevdX4hgAbhp630e5ajLpuAkSA=/620x455/e.glbimg.com/og/ed/f/original/2018/09/20/luxo_organico_01.jpg",
+      "Adress": "R. Projeto, 44 Bairro: Integrador"
+    },
+    {
+      "id": 2,
+      "PersonImage": "https://pps.whatsapp.net/v/t61.24694-24/162169825_1543289989389855_8294773875856837355_n.jpg?ccb=11-4&oh=01_AVxDkakOQLKiY7Gv1JKZyHwh8BcB5bQxgIeAKfspXz5YFw&oe=62B166E5",
+      "Name": "Dener Cardoso",
+      "Description": "Organic Orange",
+      "Image": "https://hmjardins.com.br/tok/wp-content/uploads/2016/11/bergamota-capa-logo.png",
+      "Adress": "R. Projeto, 55 Bairro: Integrador"
+    },
+    {
+      "id": 3,
+      "PersonImage": "https://whatsfacil.com/assets/img/default-avatar.png",
+      "Name": "Alexandro Conceicao",
+      "Description": "Organic Melon",
+      "Image": "https://s2.glbimg.com/A-t9Q5oYFbx3svmf4ARBFetYhQ4=/780x440/e.glbimg.com/og/ed/f/original/2021/02/08/pingo_doce_amarelinha_2.jpeg",
+      "Adress": "R. Projeto, 66 Bairro: Integrador"
+    },
+    {
+      "id": 4,
+      "PersonImage": "https://pps.whatsapp.net/v/t61.24694-24/57013502_527146831148953_7882565907984154624_n.jpg?ccb=11-4&oh=01_AVzTNorc0W5SZyfoaI5f8uP6c4jQvZu5maJeOJ3Nrvu03A&oe=62B27CA9",
+      "Name": "Emanuel",
+      "Description": "Organic Lemon",
+      "Image": "https://s2.glbimg.com/7-Svcn4YRRRHomfa6I00GxyvJS4=/e.glbimg.com/og/ed/f/original/2018/08/17/limao_limoeiro.jpg",
+      "Adress": "R. Projeto, 77 Bairro: Integrador"
+    }
+  ]
+}
